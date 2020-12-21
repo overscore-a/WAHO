@@ -1,0 +1,49 @@
+/*font-family: 'Hind Siliguri', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Titillium Web', sans-serif; */
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+    font-size: 83px;
+    margin-bottom: 5;
+    margin-top: 0;
+    text-align: center;    
+}
+
+#uno {
+    border: 3px solid #f2f2f2;
+    background-color: #dedede;
+    font-size: 50px;
+    position: absolute;
+    left: 50px;
+}
+
+#uno:hover {
+    background-color: #bababa;
+}
+
+#dos {
+    border: 3px solid #f2f2f2;
+    background-color: #dedede;
+    font-size: 50px;
+    position: absolute;
+    left: 200px;
+}
+
+#dos:hover {
+    background-color: #bababa;
+}
+
+#tres {
+    border: 3px solid #f2f2f2;
+    background-color: #dedede;
+    font-size: 50px;
+    position: absolute;
+    left: 500px;
+}
+
+#tres:hover {
+    background-color: #bababa;
+}
